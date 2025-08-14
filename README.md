@@ -11,7 +11,6 @@ To explore the Hands-on UI/UX Experiments.
 3.Show the Connection Design a simple screen and test how UI changes affect the user experience.
 
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
-
 ## Output:
 
 ![IMG-20250814-WA0025](https://github.com/user-attachments/assets/9d51ee78-ccb1-4a9e-8199-6da2862f5d85)
